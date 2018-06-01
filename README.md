@@ -1,4 +1,3 @@
-https://github.com/whydid/hw9/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD3.png
 ## Удалить все пустые строки
 
 Я работала в Notepad++
