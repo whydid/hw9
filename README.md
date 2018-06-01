@@ -21,4 +21,4 @@
 
 Получилось 54 вхождения.
 
-![]()
+![](https://github.com/whydid/hw9/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD4.png)
